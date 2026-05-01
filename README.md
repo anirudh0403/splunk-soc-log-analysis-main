@@ -101,5 +101,5 @@ This project is for educational purposes only.
 ---
 
 ## 👨‍💻 Author
-**Sarath Chandra Aluri**  
+**Anirudh Batchu**  
 Cybersecurity Enthusiast | SOC Analyst Aspirant
